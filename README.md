@@ -3,4 +3,4 @@
 
 To find out about my public projects, **stay here**.
 
-To know more about me, please **get in touch** or access **my social networks**.
+To know more about me, and my work on private entities please **get in touch** or access **my social networks**.
