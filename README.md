@@ -2,7 +2,7 @@
 
 ## My name is Victor
 
-There are a few things you should know about me
+and there are a few things you should know about me
 
 ### I'm a Software Developer and DevOps Enthusiast
 
