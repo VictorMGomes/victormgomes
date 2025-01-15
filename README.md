@@ -10,7 +10,7 @@ and there are a few things you should know about me
 
 #### Currently, I provide software development services and contribute to open source projects
 
-## 🛠️ Main Technologies
+## ⚡ Main Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,6 +23,6 @@ and there are a few things you should know about me
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-00C7B7?style=for-the-badge&logo=fastify&logoColor=white)
 
-## 🌐 Get in Touch
+## 💬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes/?locale=en_US)
