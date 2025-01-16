@@ -47,4 +47,4 @@ And there are a few things you should know about me
 
 ---
 
-### Checkout the pinned repositories to see some of my public project
+### Check out the pinned repositories to see some of my public projects
