@@ -18,7 +18,7 @@ And there are a few things you should know about me
 
 👨‍💻 **Software Development** since 2022
 
-#### Currently, I provide software development services, and I enjoy contributing to open source projects
+#### *Currently, I provide software development services, and I enjoy contributing to open source projects*
 
 ---
 
