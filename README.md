@@ -1,16 +1,26 @@
-# Hi there, visitor! Nice to meet you. 🫱🏻‍🫲🏽
+#
 
-## My name is Victor
+### Hi there, *Visitor*
 
-And there are a few things you should know about me.
+Nice to meet you
+
+### My name is *Victor*
+
+And there are a few things you should know about me
+
+---
 
 ### I'm a Software Developer and DevOps Enthusiast
 
-#### <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" style="vertical-align: middle; display: inline-block; width: 25px; height: 25px;" /> I have been working in IT since 2018
+#### And i have been working on
 
-#### <img src="https://img.icons8.com/ios-filled/50/000000/code.png" style="vertical-align: middle; display: inline-block; width: 25px; height: 25px;" /> I have been working in software development since 2022
+🌐 **IT** since 2018
+
+👨‍💻 **Software Development** since 2022
 
 #### Currently, I provide software development services, and I enjoy contributing to open source projects
+
+---
 
 ## ⚡ Main Technologies
 
@@ -27,8 +37,12 @@ And there are a few things you should know about me.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-00C7B7?style=for-the-badge&logo=fastify&logoColor=white)
 
+---
+
 ## 💬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
+
+### Below are some of my public projects
