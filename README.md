@@ -45,4 +45,6 @@ And there are a few things you should know about me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
 
+---
+
 ### Checkout the pinned repositories to see some of my public project
