@@ -1,20 +1,22 @@
-# Hi there, visitor! Nice to meet you 🫱🏻‍🫲🏽
+# Hi there, visitor! Nice to meet you. 🫱🏻‍🫲🏽
 
 ## My name is Victor
 
-and there are a few things you should know about me
+And there are a few things you should know about me.
 
 ### I'm a Software Developer and DevOps Enthusiast
 
-#### I have been working in IT since 2018 and in software development since 2022
+#### <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" style="vertical-align: middle; display: inline-block; width: 25px; height: 25px;" /> I have been working in IT since 2018
 
-#### Currently, I provide software development services and contribute to open source projects
+#### <img src="https://img.icons8.com/ios-filled/50/000000/code.png" style="vertical-align: middle; display: inline-block; width: 25px; height: 25px;" /> I have been working in software development since 2022
+
+#### Currently, I provide software development services, and I enjoy contributing to open source projects
 
 ## ⚡ Main Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -28,3 +30,5 @@ and there are a few things you should know about me
 ## 💬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes/?locale=en_US)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
