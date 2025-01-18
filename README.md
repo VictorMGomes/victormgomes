@@ -22,7 +22,7 @@ Nice to meet you
 
 ---
 
-## ⚡ And these are my main skills
+## ⚡ And these are my Main Techs
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,7 +44,7 @@ Nice to meet you
 
 ---
 
-## 💬 Get in Touch with me
+## 💬 Get in touch With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
@@ -52,4 +52,4 @@ Nice to meet you
 
 ---
 
-### Check out the pinned repositories to see some of my public projects
+### Check out the *pinned* repositories to see some of my public projects
