@@ -6,6 +6,8 @@ Nice to meet you
 
 My name is ***Victor***
 
+***I turn ideas into real applications.***
+
 And here are a few things you should know about me
 
 ## I'm a Software Developer and DevOps Enthusiast
