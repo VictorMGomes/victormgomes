@@ -4,11 +4,9 @@
 
 Nice to meet you
 
-### My name is *Victor*
+My name is ***Victor***
 
-### And here are a few things you should know about me
-
----
+And here are a few things you should know about me
 
 ## I'm a Software Developer and DevOps Enthusiast
 
@@ -18,9 +16,7 @@ Nice to meet you
 
 👨‍💻 **Software Development** since 2022
 
-#### *Currently, I provide software development services, and I enjoy contributing to open source projects*
-
----
+### *Currently, I provide software development services, and I enjoy contributing to open source projects*
 
 ## ⚡ And these are my Main Techs
 
