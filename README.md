@@ -2,25 +2,29 @@
 
 ## Hi there, *Visitor*
 
-Nice to meet you
-
-My name is ***Victor***
+Nice to meet you! My name is ***Victor***.
 
 ***I turn ideas into real applications.***
 
-And here are a few things you should know about me
+Here are a few things you should know about me:
 
 ## I'm a Software Developer and DevOps Enthusiast
 
-### And I have been working on
+### I've been working on
 
-🌐 **IT** since 2018
-
+🌐 **IT** since 2018  
 👨‍💻 **Software Development** since 2022
 
-### *Currently, I provide software development services, and I enjoy contributing to open source projects*
+### *Currently, I provide software development services, and I enjoy contributing to open-source projects.*
 
-## ⚡ And these are my Main Techs
+## Some of my projects
+
+| Name               | Description                             |
+|--------------------|-----------------------------------------|
+| [Slim Containers](https://github.com/VictorMGomes/slim-containers) | A Lightweight Docker Environment for Full Stack Applications       |
+| [Fedora Wizard](https://github.com/VictorMGomes/fedora-wizard) | Quick and Automatic Fedora Workstation Setup for Developers       |
+
+## ⚡ Techs that I work with
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
@@ -50,12 +54,8 @@ And here are a few things you should know about me
 
 ---
 
-## 💬 Get in touch With Me
+## 💬 Get in touch with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
-
----
-
-### Check out the *pinned* repositories to see some of my public projects
