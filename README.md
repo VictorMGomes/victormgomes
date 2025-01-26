@@ -17,7 +17,9 @@ Here are a few things you should know about me:
 
 ### *Currently, I provide software development services, and I enjoy contributing to open-source projects.*
 
-## 🎁 Some of my projects
+## 🎁 My Projects
+
+Some open source projects of my authorship
 
 | Name               | Description                             |
 |--------------------|-----------------------------------------|
