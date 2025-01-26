@@ -62,7 +62,7 @@ Some open source projects of my authorship
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
 
-## 🙏 Donations
+## 🙏 Funding
 
 ***If you enjoyed my work or found my projects useful, please consider making a donation to help me continue contributing to open source.***
 
