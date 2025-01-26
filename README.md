@@ -61,3 +61,9 @@ Some open source projects of my authorship
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormgomes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@victormgomes.net)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victormgomes)
+
+## 🙏 Donations
+
+### *If you enjoyed my work or found something useful in my projects, consider making a donation to help me continue contributing to open-source and improving my projects.*
+
+### You can choose a donation method [here](https://donate.victormgomes.net)
