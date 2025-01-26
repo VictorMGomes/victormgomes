@@ -64,6 +64,6 @@ Some open source projects of my authorship
 
 ## 🙏 Donations
 
-***If you enjoyed my work or found something useful in my projects, consider making a donation to help me continue contributing to open-source.***
+***If you enjoyed my work or found my projects useful, please consider making a donation to help me continue contributing to open source.***
 
-**You can choose a donation method [here](https://donate.victormgomes.net)**
+**You can choose a donation method by clicking [here](https://donate.victormgomes.net)**
