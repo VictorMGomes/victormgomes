@@ -4,22 +4,18 @@
 
 Nice to meet you! My name is ***Victor***.
 
-***I turn ideas into real applications.***
-
-Here are a few things you should know about me:
-
 ## I'm a Software Developer and DevOps Enthusiast
 
 ### I've been working on
 
-🌐 **IT** since 2018  
-👨‍💻 **Software Development** since 2022
+- **IT** since 2018  
+- **Software Development** since 2022
 
-### *Currently, I provide software development services, and I enjoy contributing to open-source projects.*
+#### *Currently, I provide software development services, and I enjoy contributing to open-source projects.*
 
-## 🎁 My Projects
+## Open sources projects I work on
 
-Some open source projects of my authorship
+### Personal
 
 | Name               | Description                             |
 |--------------------|-----------------------------------------|
@@ -33,6 +29,7 @@ Some open source projects of my authorship
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
