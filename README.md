@@ -9,7 +9,7 @@ Nice to meet you! My name is ***Victor***.
 ### I've been working on
 
 - **IT** since 2018  
-- **Software Development** since 2022
+- **Software Development** since 2021
 
 #### *Currently, I provide software development services, and I enjoy contributing to open-source projects.*
 
