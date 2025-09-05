@@ -19,8 +19,8 @@ Nice to meet you! My name is ***Victor***.
 
 | Name               | Description                             |
 |--------------------|-----------------------------------------|
+| [Scramble Extensions](https://github.com/victormgomes/scramble-extensions) | Useful magic extensions for dedoc/scramble package         |
 | [Slim Containers](https://github.com/VictorMGomes/slim-containers) | A Lightweight Docker Environment for Full Stack Applications       |
-| [Fedora Wizard](https://github.com/VictorMGomes/fedora-wizard) | Quick and Automatic Fedora Workstation Setup for Developers       |
 
 ## ⚡ Techs that I work with
 
