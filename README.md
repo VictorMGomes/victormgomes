@@ -19,7 +19,7 @@ Nice to meet you! My name is ***Victor***.
 
 | Name               | Description                             |
 |--------------------|-----------------------------------------|
-| [Query Params](https://github.com/victormgomes/query-params) | Automatic query parameters generation based on eloquent models           |
+| [Query Params](https://github.com/victormgomes/query-params) | Automatically generate query parameters based on Eloquent Models         |
 | [Scramble Extensions](https://github.com/victormgomes/scramble-extensions) | Useful magic extensions for dedoc/scramble package         |
 | [Slim Containers](https://github.com/VictorMGomes/slim-containers) | A Lightweight Docker Environment for Full Stack Applications       |
 
