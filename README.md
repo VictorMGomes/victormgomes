@@ -15,7 +15,7 @@ Nice to meet you! My name is ***Victor***.
 
 ## Open sources projects I work on
 
-### Personal
+### Projects authored by me
 
 | Name               | Description                             |
 |--------------------|-----------------------------------------|
