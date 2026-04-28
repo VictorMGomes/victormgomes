@@ -14,12 +14,12 @@ Software Developer focused on backend systems and DevOps practices, with a stron
 
 | Project | Description |
 |--------|-------------|
-| [Query Params](https://github.com/victormgomes/query-params) | Automatically generate query parameters from Eloquent models |
-| [Scramble Extensions](https://github.com/victormgomes/scramble-extensions) | Useful extensions for the dedoc/scramble package |
-| [Laravel Modules Plus](https://github.com/VictorMGomes/laravel-modules-plus) | Enhancements for the nWidart/laravel-modules package |
-| [Async API](https://github.com/VictorMGomes/async-api) | Automatically generate documentation for the AsyncAPI specification based on Laravel events |
-| [Auto Translate](https://github.com/VictorMGomes/auto-translate) | Automatic translation for translatable attributes in Eloquent models |
-| [REST Messages](https://github.com/VictorMGomes/rest-messages) | Standardized message responses for REST resources |
+| [Query Params](https://packagist.org/packages/victormgomes/query-params) | Automatically generate query parameters from Eloquent models |
+| [Scramble Extensions](https://packagist.org/packages/victormgomes/scramble-extensions) | Useful extensions for the dedoc/scramble package |
+| [Laravel Modules Plus](https://packagist.org/packages/victormgomes/laravel-modules-plus) | Enhancements for the nWidart/laravel-modules package |
+| [Async API](https://packagist.org/packages/victormgomes/async-api) | Automatically generate documentation for the AsyncAPI specification based on Laravel events |
+| [Auto Translate](https://packagist.org/packages/victormgomes/auto-translate) | Automatic translation for translatable attributes in Eloquent models |
+| [REST Messages](https://packagist.org/packages/victormgomes/rest-messages) | Standardized message responses for REST resources |
 
 ## Tech Stack
 
